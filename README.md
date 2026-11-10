@@ -23,13 +23,6 @@
   </p>
 </div>
 
-<div align="center">
-  <p>
-    💬 <code style="color: #00ff00;">To talk in bits and bytes:</code> 
-    <strong style="color: #00ff00;">iftikharhafsa4@gmail.com</strong>
-  </p>
-</div>
-
 ---
 
 <h3 align="left">🔗 Connect with me:</h3>
